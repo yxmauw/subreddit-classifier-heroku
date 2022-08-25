@@ -14,7 +14,6 @@ from sklearn.naive_bayes import MultinomialNB
 import streamlit as st
 from PIL import Image
 
-from model_methods import predict
 import base64 # for title image
 
 # configuration of the page
