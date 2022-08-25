@@ -82,8 +82,8 @@ def main():
 @st.cache # cached so that latency for subsequent runs are shorter
 def import_nltk():
     import nltk
-    nltk.download('wordnet')
-    nltk.download('omw-1.4')
+    # nltk.download('wordnet')
+    # nltk.download('omw-1.4')
 # https://discuss.streamlit.io/t/are-you-using-html-in-markdown-tell-us-why/96/25
 def local_css(file_name): # for highlighting text
     with open(file_name) as f:
