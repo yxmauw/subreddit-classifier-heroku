@@ -4,8 +4,7 @@
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) to view. Thank you!
 If status shows **timeout**, it just means app is in dormant state, but still functioning, plsease click through
 
-#### Caution: 
-Prediction takes a few minutes to process due to NLTK module
+#### Caution: Prediction takes a few minutes to process due to NLTK module
 
 ### Highlight Text references
 * [Streamlit forum](https://discuss.streamlit.io/t/colored-boxes-around-sections-of-a-sentence/3201)
