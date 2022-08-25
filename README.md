@@ -1,6 +1,7 @@
 # [Streamlit](https://streamlit.io/) app hosted on [Heroku](https://www.heroku.com)
- 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yxmauw-general-assembly-pub-project-3cloud-appapp-ejikv2.streamlitapp.com) to access. Thank you!
+
+<!--https://pyheroku-badge.herokuapp.com/ -->
+[![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) to view. Thank you!
 
 ### Highlight Text references
 * [Streamlit forum](https://discuss.streamlit.io/t/colored-boxes-around-sections-of-a-sentence/3201)
