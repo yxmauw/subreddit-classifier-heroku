@@ -3,6 +3,9 @@
 <!--https://pyheroku-badge.herokuapp.com/ -->
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) to view. Thank you!
 
+**Caution**
+Prediction takes a few minutes to process due to NLTK module
+
 ### Highlight Text references
 * [Streamlit forum](https://discuss.streamlit.io/t/colored-boxes-around-sections-of-a-sentence/3201)
 * [CSS colour palette](https://www.w3schools.com/cssref/css_colors.asp)
