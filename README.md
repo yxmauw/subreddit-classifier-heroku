@@ -13,3 +13,4 @@ Prediction takes a few minutes to process due to NLTK module
 
 ### Streamlit-Heroku integration references
 * [Initiation](https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/)
+* [local repo connection to Heroku](https://devcenter.heroku.com/articles/git)
