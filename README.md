@@ -3,7 +3,7 @@
 <!--https://pyheroku-badge.herokuapp.com/ -->
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) to view. Thank you!
 
-**Caution**
+**Caution:**
 Prediction takes a few minutes to process due to NLTK module
 
 ### Highlight Text references
