@@ -13,4 +13,5 @@ If status shows **timeout**, it just means app is in dormant state. It is still 
 
 ### Streamlit-Heroku integration references
 * [Initiation](https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/)
+* [Integration](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd)
 * [local repo connection to Heroku](https://devcenter.heroku.com/articles/git)
