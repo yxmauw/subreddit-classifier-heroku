@@ -18,7 +18,8 @@ If status shows **timeout**, it just means app is in dormant state. It is still 
 
 ### Heroku announcement
 Starting November 28th, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® will no longer be available.
-This app runs using free Heroku Dynos. 
+**This app runs using free Heroku Dynos.** 
 ```
-If you have apps using any of these resources, you must upgrade to paid plans by this date to ensure your apps continue to run and to retain your data. Learn more at https://blog.heroku.com/next-chapter
+If you have apps using any of these resources, you must upgrade to paid plans by this date to ensure your apps continue to run and to retain your data. 
+Learn more at https://blog.heroku.com/next-chapter
 ```
