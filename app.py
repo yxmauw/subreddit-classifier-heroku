@@ -48,18 +48,13 @@ def main():
     st.markdown(text, unsafe_allow_html=True)
 
     # Area for text input
-    st.markdown('''
-    Please copy and paste the 
-    subreddit post here
-    ''')
-
     import_nltk() # import nltk module if not yet cached in local computer
-    new_post = st.text_input('Enter text here', '')
+    new_post = st.text_input('Please copy and paste the subreddit post here', '')
 
     data = pd.Series(new_post) # pd.Series format new input coz that is the format that predict() recognises
     
     # instantiate submit button
-    if st.button('Submit'):
+    if st.button('Marvel or DC comics?'):
         with st.sidebar:
             try: 
                 # process new input
