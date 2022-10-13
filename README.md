@@ -1,6 +1,6 @@
 # [Streamlit](https://streamlit.io/) app hosted on [Heroku](https://www.heroku.com)
 
-_App migrated to huggingface https://huggingface.co/spaces/yxmauw/subreddit-clf-app
+_App migrated to:_ [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/yxmauw/subreddit-clf-app) 
 
 <!--https://pyheroku-badge.herokuapp.com/ -->
 [![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) to view. Thank you!
