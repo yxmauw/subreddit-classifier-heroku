@@ -3,9 +3,7 @@
 _App migrated to:_ [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/yxmauw/subreddit-clf-app) 
 
 <!--https://pyheroku-badge.herokuapp.com/ -->
-[![Heroku](https://pyheroku-badge.herokuapp.com/?app=subreddit-classifier-app&style=flat)](https://subreddit-classifier-app.herokuapp.com/) will be deprecated from 28 Nov 2022.
-
-If status shows **timeout**, it just means app is in dormant state. It is still functioning, please click through
+[Heroku](https://subreddit-classifier-app.herokuapp.com/) will be deprecated from 28 Nov 2022.
 
 #### Caution: Prediction takes a few minutes to process due to large NLTK corpora and training data
 
